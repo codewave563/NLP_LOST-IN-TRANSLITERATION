@@ -1,0 +1,6 @@
+{
+  "name": "NOPEE AI",
+  "description": "NLP Orthographic Perturbation & Evaluation Engine - Lost in Transliteration: Robustness of NLP Models to Romanized Hindi Spelling Variations",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
